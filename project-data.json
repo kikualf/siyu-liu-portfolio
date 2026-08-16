@@ -1,0 +1,61 @@
+{
+  "owner": {
+    "name": "Siyu Liu",
+    "name_zh": "刘思羽",
+    "email_china": "siyuliu2063@163.com",
+    "email_international": "leslie020228@gmail.com"
+  },
+  "education": [
+    {
+      "school": "University of Utah",
+      "period": "2021–2024",
+      "degree": "B.S. Game Development"
+    },
+    {
+      "school": "University of Utah",
+      "period": "2025–Present",
+      "degree": "M.S. Technical Art"
+    }
+  ],
+  "projects": [
+    {
+      "id": "japanese-garden",
+      "title": "琉璃光院",
+      "year": "2026",
+      "type": "Independent"
+    },
+    {
+      "id": "metahuman-character",
+      "title": "MetaHuman Character",
+      "year": "2025",
+      "type": "Independent"
+    },
+    {
+      "id": "ascend",
+      "title": "ASCEND",
+      "year": "2025",
+      "type": "Independent",
+      "notes": "Third-party assets/plugins disclosed"
+    },
+    {
+      "id": "houdini-study",
+      "title": "houdini程序化塔楼练习",
+      "type": "Study"
+    },
+    {
+      "id": "sd-study",
+      "title": "Substance Designer 材质练习",
+      "type": "Study"
+    },
+    {
+      "id": "axe-study",
+      "title": "战斧资产练习",
+      "type": "Independent Practice"
+    },
+    {
+      "id": "md-clothing-practice",
+      "title": "MD服装练习",
+      "type": "Study"
+    }
+  ]
+}
