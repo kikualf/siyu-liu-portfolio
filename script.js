@@ -35,7 +35,7 @@ const details = {
     ['CLOTH / MATERIAL','p2.cloth.title','p2.cloth.text',['assets/metahuman/fabric-detail.webp','assets/metahuman/fabric-01.webp','assets/metahuman/fabric-02.webp','assets/metahuman/cloth-ue-01.webp','assets/metahuman/cloth-ue-02.webp']],
     ['HAIR / FINAL','', '',['assets/metahuman/hair-01.webp','assets/metahuman/hair-02.webp']]
   ]},
-  ascend:{kicker:'ENVIRONMENT / TECH ART',en:{title:'ASCEND',lead:'An environment-focused project combining level art, landscape materials, foliage, SpeedTree, lighting and post processing, with third-party assets clearly disclosed.'},zh:{title:'ASCEND',lead:'以环境制作与实时落地为重点，包含地编、Landscape 材质、植被、SpeedTree、灯光与后期，并明确标注第三方资源。'},blocks:[
+  ascend:{kicker:'ENVIRONMENT / TECH ART',en:{title:'ASCEND',lead:'An environment-focused project combining level art, landscape materials, foliage, SpeedTree, lighting and post processing.'},zh:{title:'ASCEND',lead:'以环境制作与实时落地为重点，包含地编、Landscape 材质、植被、SpeedTree、灯光与后期。'},blocks:[
     ['ENVIRONMENT','p3.contribution','p3.contribution',['assets/ascend/hero-01.webp','assets/ascend/hero-02.webp','assets/ascend/hero-03.webp']],
     ['LANDSCAPE / FOLIAGE','p3.foliage.title','p3.foliage.text',['assets/ascend/process-01.webp','assets/ascend/process-02.webp','assets/ascend/process-03.webp','assets/ascend/environment-breakdown.webp']],
     ['VIDEO','p3.video','p3.video',['assets/ascend/ascend-video.mp4']]
