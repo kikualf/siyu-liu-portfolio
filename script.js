@@ -131,8 +131,8 @@ const details = {
         'p4.contribution',
         [
           'assets/clothing/ai-original.png',
-          'assets/clothing/ai-highpoly-with-ID-01.png',
-          'assets/clothing/ai-highpoly-with-ID-02.png',
+          'assets/clothing/ai_highpolywithID-01.png',
+          'assets/clothing/ai_highpolywithID-02.png',
           'assets/clothing/manual-retopology.png'
         ]
       ],
