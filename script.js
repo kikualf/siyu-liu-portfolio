@@ -30,8 +30,8 @@ const translations = {
   },
 
   zh: {
-    "nav.projects":"项目","nav.studies":"技术练习","nav.about":"关于我","nav.contact":"联系方式","hero.eyebrow":"技术美术 / 实时渲染","hero.sub":"","hero.view":"查看精选项目","hero.contact":"联系我 ↗","hero.caption":"琉璃光院 / UE5",
-    "intro.label":"精选项目","intro.title":"从资产制作到引擎落地，<br>构建实时世界。","intro.text":"我的工作覆盖环境美术、材质、植被、角色资产以及 Unreal Engine 实现。","common.role":"职责","common.contribution":"个人贡献","common.tools":"软件 / 工具","common.pipeline":"制作流程","common.notes":"项目说明",
+    "nav.projects":"项目","nav.studies":"技术练习","nav.about":"关于我","nav.contact":"联系方式","hero.eyebrow":"技术美术 / 实时渲染","hero.sub":"","hero.view":"查看项目","hero.contact":"联系我 ↗","hero.caption":"琉璃光院 / UE5",
+    "intro.label":"项目","intro.title":"从资产制作到引擎落地，<br>构建实时世界。","intro.text":"我的工作覆盖环境美术、材质、植被、角色资产以及 Unreal Engine 实现。","common.role":"职责","common.contribution":"个人贡献","common.tools":"软件 / 工具","common.pipeline":"制作流程","common.notes":"项目说明",
 
     "p1.title":"琉璃光院","p1.type":"个人项目","p1.role":"环境美术 / 技术美术","p1.contribution":"独立完成完整场景、材质、植被、SpeedTree、灯光、雨水效果、玻璃动态雨水材质以及后期处理。","p1.material.title":"材质展示","p1.material.text":"展示为琉璃光院场景制作的树叶、石头、木头与织物材质。","p1.speed.title":"植被与季节控制","p1.speed.text":"场景中的树木使用 SpeedTree 制作并接入环境，同时探索了植被变化与季节控制。","p1.rain.title":"玻璃上的动态雨水","p1.rain.text":"场景使用 Ultra Dynamic Sky 构建天气环境；玻璃上的动态雨水效果则使用自定义 Unreal 材质节点制作。","p1.video":"场景雨水 / 最终视频渲染",
 
@@ -44,7 +44,7 @@ const translations = {
     "p4.role":"技术美术 / 资产制作",
     "p4.contribution":"以 AI 生成高模为起点，结合人工清理与组件拆分、重拓扑、高模烘焙、PBR 材质制作，并开发/修改 Blender 工具，用于从 Base Color 中提取适合烘焙的 Material ID。",
 
-    "studies.label":"技术练习","studies.title":"精选练习与其他作品。","studies.text":"独立练习作品展示。",
+    "studies.label":"技术练习","studies.title":"练习与其他作品。","studies.text":"独立练习作品展示。",
     "study.h.title":"houdini程序化塔楼练习","study.h.text":"houdini程序化塔楼练习。",
     "study.s.title":"Substance Designer 材质练习","study.s.text":"Substance Designer 材质练习。",
     "study.md.title":"MD服装练习","study.md.text":"Marvelous Designer 服装制作练习。",
