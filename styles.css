@@ -128,8 +128,28 @@ footer{border-top:1px solid var(--line);padding:22px 4vw;display:flex;justify-co
 @media(max-width:900px){.asset-gallery{grid-template-columns:1fr 1fr}}
 @media(max-width:560px){.asset-gallery{grid-template-columns:1fr}.additional-head h3{font-size:26px}.lightbox{padding:18px}.lightbox-close{right:14px;top:8px}}
 
-.detail-button{margin-top:16px;border:1px solid var(--line);background:transparent;color:var(--muted);padding:9px 12px;font:500 10px DM Mono,monospace;letter-spacing:.1em;cursor:pointer;transition:.2s}
-.detail-button:hover{border-color:var(--accent);color:var(--accent)}
+.detail-button{
+  margin-top:16px;
+  border:1px solid var(--text);
+  background:var(--text);
+  color:var(--bg);
+  padding:11px 15px;
+  font:500 10px DM Mono,monospace;
+  letter-spacing:.1em;
+  cursor:pointer;
+  transition:
+    background .2s ease,
+    color .2s ease,
+    border-color .2s ease,
+    transform .2s ease;
+}
+
+.detail-button:hover{
+  background:transparent;
+  color:var(--accent);
+  border-color:var(--accent);
+  transform:translateY(-2px);
+}
 .project-head>div:last-child{display:flex;flex-direction:column;align-items:flex-end}
 .clickable-card{cursor:pointer;transition:transform .25s ease,background .25s ease}
 .clickable-card:hover{transform:translateY(-3px);background:#151718}
